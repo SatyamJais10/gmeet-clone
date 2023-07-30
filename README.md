@@ -8,10 +8,9 @@ Project Team-
 ## Features
 
 - video conferencing - Users can organize meets where others could join using the meet ID.
-- User authentication using Gmail-id.
 - Chatbox where users can chat with others in meet. 
-- Collaborative whiteboard in meet.
 - Screen sharing
+- Share attachments
 
 
 ## Prerequisites
